@@ -4,7 +4,7 @@
 
 ## Contact Info
 * E-mail: evilinyoursoul@gmail.com
-* GitHub: [https://github.com/evilinyoursoul](evilinyoursoul)
+* GitHub: [evilinyoursoul](https://github.com/evilinyoursoul)
 
 ***
 
